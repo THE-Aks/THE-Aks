@@ -90,11 +90,19 @@ mindset: "Build. Break. Learn. Ship."
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THE-Aks&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THE-Aks&theme=tokyo-night&hide_border=true"/>
 </div>
 
+### 🏆 Trophy Case
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THE-Aks&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=THE-Aks&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/THE-Aks/THE-Aks/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ---
